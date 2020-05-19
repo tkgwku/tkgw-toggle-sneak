@@ -1,4 +1,9 @@
-# tkgw Toggle Sneak Mod
+# toggle sneak mod for MC 1.9.4
+
+### purpose 
+
+Key press, you sneak, key press, you walk.   
+No finger on Lshift pain.
 
 ### download
 
